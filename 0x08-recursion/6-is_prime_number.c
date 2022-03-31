@@ -29,7 +29,7 @@ int isprime(int c, int d)
  */
 int is_prime_number(int n)
 {
-	if (n <= 0)
+	if (n <= 1)
 		return (0);
 	return (isprime(n, 2));
 }

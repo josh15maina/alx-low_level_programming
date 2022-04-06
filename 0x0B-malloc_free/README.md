@@ -1,4 +1,4 @@
-# MalloC and Free
+# Malloc and Free
 
 ### Description
 

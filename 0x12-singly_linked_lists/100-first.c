@@ -1,9 +1,6 @@
-#include <stdio.h>
-
-void text(void) __attribute__ ((constructor));
-
+#include "lists.h"
 /**
- * text - prints aspecific text
+ * text - prints a specific text
  *
  * Return: No return
  */

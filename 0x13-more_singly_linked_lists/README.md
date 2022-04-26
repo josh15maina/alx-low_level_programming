@@ -8,5 +8,5 @@ What you should learn from this project:
 Remember to have fun engineer!!
 
 #### Author
-* Joshua Maina - (https://github.com/josh15maina)
+* Joshua Maina - josh15maina
 

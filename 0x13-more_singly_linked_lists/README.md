@@ -1,4 +1,4 @@
-# 0x13. C - More singly linked lists
+# 0x13. C  - More singly linked lists
 
 ## Description
 What you should learn from this project:
@@ -9,4 +9,3 @@ Remember to have fun engineer!!
 
 #### Author
 * Joshua Maina - [josh15maina](https://github.com/josh15maina)
-

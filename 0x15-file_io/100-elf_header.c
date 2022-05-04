@@ -281,7 +281,7 @@ int main(int argc, char **argv)
 	fdelf = open(argv[1], O_RDONLY);
 	if (fdelf == -1)
 		dprintf(STDERR_FILENO, "Can't Open File\n"), exit(98);
-		relf = read(fdelf, h, 32);
+	relf = read(fdelf, h, 32);
 	if (relf == -1)
 		dprintf(STDERR_FILENO, "Error Reading File\n"), exit(98);
 

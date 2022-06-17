@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -qO /tmp/jackpot.so https://raw.github.com/josh15maina/alx-low_level_programming/master/0x18-dynamic_libraries/jackpot.so
-export LD_PRELOAD=/tmp/jackpot.so
+wget -P /tmp https://github.com/holbertonschool/0x18.c/blob/master/101-md5_gm
+export LD_PRELOAD=/tmp/putshack.so

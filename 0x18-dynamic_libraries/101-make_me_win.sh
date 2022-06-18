@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -P /tmp https://github.com/holbertonschool/0x18.c/blob/master/101-md5_gm
-export LD_PRELOAD=/tmp/putshack.so
+wget -P /tmp https://github.com/josh15maina/alx-low_level_programming/blob/master/0x17-doubly_linked_lists/liball.so
+export LD_PRELOAD=/tmp/liball.so
